@@ -16,7 +16,7 @@ This is a simple page using HTML and CSS, a challenge by [FrontEnd Mentor](https
 
 ### Links
 
-- Live Site URL: [QR Code Component](https://your-live-site-url.com)
+- Live Site URL: [QR Code Component](https://fm-qr-code-01.netlify.app/)
 
 ## My process
 
